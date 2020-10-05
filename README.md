@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kaffikaffi/kaffikaffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+# 🚀Børge S. Dreyer - kaffikaffi🚀  
+Hi!👋 I am a developer based in Trondheim, currently studying Informatics at NTNU👷    
+Alongside studying, I work as a consultant at Junior Consulting.
