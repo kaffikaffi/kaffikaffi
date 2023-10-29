@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 
 -->
 # Børge S. Dreyer - kaffikaffi  
-Hi! I am a developer based in Oslo, currently working at Vipps.   
-![vipps](https://media2.giphy.com/media/ge3MiKLcZC6KAvrZBP/giphy.gif)
+Hi! I am a developer based in Oslo, currently working at Stingray Marine Solutions.   
 
